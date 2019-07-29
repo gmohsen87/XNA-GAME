@@ -1,0 +1,96 @@
+C:\New folder\BallGame\BallGame\BallGame\bin\x86\Debug\BallGame.exe
+C:\New folder\BallGame\BallGame\BallGame\bin\x86\Debug\BallGame.pdb
+C:\New folder\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\New folder\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\New folder\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\New folder\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\New folder\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\New folder\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\New folder\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\New folder\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\New folder\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\New folder\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\New folder\BallGame\BallGame\BallGame\obj\x86\Debug\BallGame.csprojResolveAssemblyReference.cache
+C:\New folder\BallGame\BallGame\BallGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\New folder\BallGame\BallGame\BallGame\obj\x86\Debug\BallGame.exe
+C:\New folder\BallGame\BallGame\BallGame\obj\x86\Debug\BallGame.pdb
+C:\New folder\BallGame\BallGame\BallGame\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\New folder\BallGame\BallGame\BallGame\bin\x86\Debug\Content\Bug.xnb
+D:\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Content\Bug.xnb
+D:\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\BallGame.exe
+D:\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\BallGame.pdb
+D:\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.dll
+D:\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+D:\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+D:\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+D:\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.xml
+D:\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+D:\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+D:\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+D:\BallGame\BallGame\BallGame\BallGame\obj\x86\Debug\BallGame.csprojResolveAssemblyReference.cache
+D:\BallGame\BallGame\BallGame\BallGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\BallGame\BallGame\BallGame\BallGame\obj\x86\Debug\BallGame.exe
+D:\BallGame\BallGame\BallGame\BallGame\obj\x86\Debug\BallGame.pdb
+E:\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Content\SpriteFont1.xnb
+E:\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Content\Bug.xnb
+E:\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\BallGame.exe
+E:\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\BallGame.pdb
+E:\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.dll
+E:\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+E:\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+E:\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+E:\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+E:\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.xml
+E:\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+E:\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+E:\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+E:\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+E:\BallGame\BallGame\BallGame\BallGame\obj\x86\Debug\BallGame.csprojResolveAssemblyReference.cache
+E:\BallGame\BallGame\BallGame\BallGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\BallGame\BallGame\BallGame\BallGame\obj\x86\Debug\BallGame.exe
+E:\BallGame\BallGame\BallGame\BallGame\obj\x86\Debug\BallGame.pdb
+C:\Users\Mohsen\Desktop\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Mohsen\Desktop\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Content\Bug.xnb
+C:\Users\Mohsen\Desktop\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\BallGame.exe
+C:\Users\Mohsen\Desktop\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\BallGame.pdb
+C:\Users\Mohsen\Desktop\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Mohsen\Desktop\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Mohsen\Desktop\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Mohsen\Desktop\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Mohsen\Desktop\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Mohsen\Desktop\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Mohsen\Desktop\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Mohsen\Desktop\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Mohsen\Desktop\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Mohsen\Desktop\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Mohsen\Desktop\BallGame\BallGame\BallGame\BallGame\obj\x86\Debug\BallGame.csprojResolveAssemblyReference.cache
+C:\Users\Mohsen\Desktop\BallGame\BallGame\BallGame\BallGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Mohsen\Desktop\BallGame\BallGame\BallGame\BallGame\obj\x86\Debug\BallGame.exe
+C:\Users\Mohsen\Desktop\BallGame\BallGame\BallGame\BallGame\obj\x86\Debug\BallGame.pdb
+C:\Users\Mohsen\Desktop\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Content\skyMenu.xnb
+C:\Users\Mohsen\Desktop\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Content\MUSIC1.xnb
+C:\Users\Mohsen\Desktop\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Content\bazooka_fire.xnb
+C:\uc\Game Programming (7191)\MT2\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\uc\Game Programming (7191)\MT2\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Content\Bug.xnb
+C:\uc\Game Programming (7191)\MT2\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Content\skyMenu.xnb
+C:\uc\Game Programming (7191)\MT2\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Content\MUSIC1.xnb
+C:\uc\Game Programming (7191)\MT2\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Content\bazooka_fire.xnb
+C:\uc\Game Programming (7191)\MT2\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\BallGame.exe
+C:\uc\Game Programming (7191)\MT2\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\BallGame.pdb
+C:\uc\Game Programming (7191)\MT2\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\uc\Game Programming (7191)\MT2\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\uc\Game Programming (7191)\MT2\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\uc\Game Programming (7191)\MT2\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\uc\Game Programming (7191)\MT2\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\uc\Game Programming (7191)\MT2\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\uc\Game Programming (7191)\MT2\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\uc\Game Programming (7191)\MT2\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\uc\Game Programming (7191)\MT2\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\uc\Game Programming (7191)\MT2\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\uc\Game Programming (7191)\MT2\BallGame\BallGame\BallGame\BallGame\obj\x86\Debug\BallGame.csprojResolveAssemblyReference.cache
+C:\uc\Game Programming (7191)\MT2\BallGame\BallGame\BallGame\BallGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\uc\Game Programming (7191)\MT2\BallGame\BallGame\BallGame\BallGame\obj\x86\Debug\BallGame.exe
+C:\uc\Game Programming (7191)\MT2\BallGame\BallGame\BallGame\BallGame\obj\x86\Debug\BallGame.pdb

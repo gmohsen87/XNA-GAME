@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\uc\Game Programming (7191)\MT2\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2015-03-27T13:46:28+11:00</Time>
+    </Item>
+    <Item>
+      <Source>Bug.png</Source>
+      <Name>Bug</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\uc\Game Programming (7191)\MT2\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Content\Bug.xnb</Output>
+      <Time>2013-03-07T15:32:54+11:00</Time>
+    </Item>
+    <Item>
+      <Source>skyMenu.png</Source>
+      <Name>skyMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\uc\Game Programming (7191)\MT2\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Content\skyMenu.xnb</Output>
+      <Time>2016-05-12T18:38:58.945183+10:00</Time>
+    </Item>
+    <Item>
+      <Source>MUSIC1.WAV</Source>
+      <Name>MUSIC1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\uc\Game Programming (7191)\MT2\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Content\MUSIC1.xnb</Output>
+      <Time>2015-03-27T12:45:06+11:00</Time>
+    </Item>
+    <Item>
+      <Source>bazooka_fire.wav</Source>
+      <Name>bazooka_fire</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\uc\Game Programming (7191)\MT2\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Content\bazooka_fire.xnb</Output>
+      <Time>2015-03-27T12:44:58+11:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{559F3DAC-11DE-409D-AB4B-75AC1CF29E57}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\uc\Game Programming (7191)\MT2\BallGame\BallGame\BallGame\BallGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\uc\Game Programming (7191)\MT2\BallGame\BallGame\BallGame\BallGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\uc\Game Programming (7191)\MT2\BallGame\BallGame\BallGame\BallGame\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\uc\Game Programming (7191)\MT2\BallGame\BallGame\BallGame\BallGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+10:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-04-29T13:07:13.3084657+10:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
